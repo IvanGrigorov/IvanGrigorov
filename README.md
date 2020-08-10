@@ -31,7 +31,7 @@
 * Coding Coach -> [CodingCoach][CodingCoach]
 * Code Mentor -> [CodeMentor][CodeMentor]
 
-# 🔍 Find me at
+# 🔍 Find me @
 
 [<img alt="Ivan @ Blog" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Blog] [<img alt="Ivan @ LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn] [<img alt="Ivan @ Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Insta] [<img alt="Ivan @ Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][Email]
 
