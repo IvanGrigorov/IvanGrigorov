@@ -3,10 +3,12 @@
 ![GitHub followers](https://img.shields.io/github/followers/IvanGrigorov?label=Follow&style=social) 
 
 # Who am I 🙄?
-👨‍💻 Programmer and Software Developer
-👨‍🏫 Trying to be a mentor
+👨‍💻 Software Developer  
+👨‍🏫 Trying to be a mentor  
 🌌 Physics and cosmology enthusiast
-⚽ Football  fan 
+🗺️ Traveller
+⚽ Football fan and healthy life addict
+
 
 # 👷‍♂️ Actively working on
 * PHPDI package -> [PHPDI] *Release:* [PHPDIRelease]
@@ -24,6 +26,10 @@
 
 ![](https://img.shields.io/badge/PHP-Language-informational?style=flat&logo=PHP&logoColor=white&color=green) ![](https://img.shields.io/badge/JS-Language-informational?style=flat&logo=Javascript&logoColor=white&color=green) ![](https://img.shields.io/badge/CSharp-Language-informational?style=flat&logo=CSharp&logoColor=white&color=green) ![](https://img.shields.io/badge/Java-Language-informational?style=flat&logo=Java&logoColor=white&color=green) ![](https://img.shields.io/badge/JS-Nativescript-informational?style=flat&logo=Nativescript&logoColor=white&color=green) ![](https://img.shields.io/badge/PHP-Symfony-informational?style=flat&logo=Symfony&logoColor=white&color=green) ![](https://img.shields.io/badge/GIT-Tool-informational?style=flat&logo=Git&logoColor=white&color=green)
 
+# 👨‍🏫 Mentorship
+
+* Coding Coach -> [CodingCoach]
+* Code Mentor -> [CodeMentor]
 
 # 🔍 Find me at
 
@@ -43,3 +49,5 @@
 [LinkedIn]: (https://www.linkedin.com/in/ivan-grigorov-0527b0ba/)
 [Email]: (ivangrigorov9@gmail.com)
 [Blog]: (https://ivanit.eu)
+[CodingCoach]: (https://mentors.codingcoach.io/?country=BG&name=Ivan+Grigorov)
+[CodeMentor]: (https://www.codementor.io/@ivangrigorov9)
