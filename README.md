@@ -24,7 +24,7 @@
 
 # 💪 Skills
 
-![](https://img.shields.io/badge/PHP-Language-informational?style=flat&logo=PHP&logoColor=white&color=green) ![](https://img.shields.io/badge/JS-Language-informational?style=flat&logo=Javascript&logoColor=white&color=green) ![](https://img.shields.io/badge/CSharp-Language-informational?style=flat&logo=CSharp&logoColor=white&color=green) ![](https://img.shields.io/badge/Java-Language-informational?style=flat&logo=Java&logoColor=white&color=green) ![](https://img.shields.io/badge/JS-Nativescript-informational?style=flat&logo=Nativescript&logoColor=white&color=green) ![](https://img.shields.io/badge/PHP-Symfony-informational?style=flat&logo=Symfony&logoColor=white&color=green) ![](https://img.shields.io/badge/GIT-Tool-informational?style=flat&logo=Git&logoColor=white&color=green)
+![](https://img.shields.io/badge/PHP-Language-informational?style=flat&logo=PHP&logoColor=white&color=green) ![](https://img.shields.io/badge/JS-Language-informational?style=flat&logo=Javascript&logoColor=white&color=green) ![](https://img.shields.io/badge/JS-ExtJs-informational?style=flat&logo=ExtJs&logoColor=white&color=green) ![](https://img.shields.io/badge/JS-NodeJS-informational?style=flat&logo=Node.Js&logoColor=white&color=green) ![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=green) ![](https://img.shields.io/badge/DB-Mongo-informational?style=flat&logo=MongoDB&logoColor=white&color=green) ![](https://img.shields.io/badge/CSharp-Language-informational?style=flat&logo=CSharp&logoColor=white&color=green) ![](https://img.shields.io/badge/Java-Language-informational?style=flat&logo=Java&logoColor=white&color=green) ![](https://img.shields.io/badge/JS-Nativescript-informational?style=flat&logo=Nativescript&logoColor=white&color=green) ![](https://img.shields.io/badge/PHP-Symfony-informational?style=flat&logo=Symfony&logoColor=white&color=green) ![](https://img.shields.io/badge/Web-Boostrap-informational?style=flat&logo=Boostrap&logoColor=white&color=green) ![](https://img.shields.io/badge/GIT-Tool-informational?style=flat&logo=Git&logoColor=white&color=green)
 
 # 👨‍🏫 Mentorship
 
@@ -33,7 +33,7 @@
 
 # 🔍 Find me @
 
-[<img alt="Ivan @ Blog" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Blog] [<img alt="Ivan @ LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn] [<img alt="Ivan @ Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Insta] [<img alt="Ivan @ Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][Email]
+[<img alt="Ivan @ Blog" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Blog] &nbsp;[<img alt="Ivan @ LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]&nbsp; [<img alt="Ivan @ Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Insta]&nbsp; [<img alt="Ivan @ Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][Email]
 
 # 🏆 Me @ Github
 
