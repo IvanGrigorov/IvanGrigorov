@@ -47,7 +47,7 @@
 [BlogServer]: https://github.com/IvanGrigorov/Blog
 [Insta]: https://www.instagram.com/grigorov_ik/
 [LinkedIn]: https://www.linkedin.com/in/ivan-grigorov-0527b0ba/
-[Email]: ivangrigorov9@gmail.com
+[Email]: mailto:ivangrigorov9@gmail.com
 [Blog]: https://ivanit.eu
 [CodingCoach]: https://mentors.codingcoach.io/?country=BG&name=Ivan+Grigorov
 [CodeMentor]: https://www.codementor.io/@ivangrigorov9
