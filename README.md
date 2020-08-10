@@ -5,16 +5,16 @@
 # Who am I 🙄?
 👨‍💻 Software Developer  
 👨‍🏫 Trying to be a mentor  
-🌌 Physics and cosmology enthusiast
-🗺️ Traveller
-⚽ Football fan and healthy life addict
-
+🌌 Physics and cosmology enthusiast  
+🗺️ Traveller  
+⚽ Football fan and healthy life addict  
 
 # 👷‍♂️ Actively working on
-* PHPDI package -> [PHPDI] *Release:* [PHPDIRelease]
-* SpendingSimplified mobile app -> [SpendingSimplified] *Release:* [SpendingSimplifiedRelease]
-* Blog template (Back-End) -> [BlogServer]
-* Blog template (Front-End) -> [BlogClient]
+
+* PHPDI package -> [PHPDI] *Release:* [PHPDI Release][PHPDIRelease]
+* SpendingSimplified mobile app -> [SpendingSimplified] *Release:* [SpendingSimplified Release][SpendingSimplifiedRelease]
+* Blog template (Back-End) -> [BlogServer BE][BlogServer]
+* Blog template (Front-End) -> [BlogServer FE][BlogClient]
 
 # 👨‍🎓 Currently learning 
 
@@ -28,8 +28,8 @@
 
 # 👨‍🏫 Mentorship
 
-* Coding Coach -> [CodingCoach]
-* Code Mentor -> [CodeMentor]
+* Coding Coach -> [CodingCoach][CodingCoach]
+* Code Mentor -> [CodeMentor][CodeMentor]
 
 # 🔍 Find me at
 
@@ -39,15 +39,15 @@
 
 ![Ivan's github stats](https://github-readme-stats.vercel.app/api?username=IvanGrigorov&show_icons=true&theme=vue-dark)
 
-[PHPDIRelease]: (https://packagist.org/packages/ivangrigorov/php-simple-dicontainer)
-[SpendingSimplifiedRelease]: (https://play.google.com/store/apps/details?id=org.nativescript.CostingApp&hl=en)
-[PHPDI]: (https://github.com/IvanGrigorov/PHPDI)
-[SpendingSimplified]: (https://github.com/IvanGrigorov/SpendingSimplified)
-[BlogClient]: (https://github.com/IvanGrigorov/Blog)
-[BlogServer]: (https://github.com/IvanGrigorov/Blog)
-[Insta]: (https://www.instagram.com/grigorov_ik/)
-[LinkedIn]: (https://www.linkedin.com/in/ivan-grigorov-0527b0ba/)
-[Email]: (ivangrigorov9@gmail.com)
-[Blog]: (https://ivanit.eu)
-[CodingCoach]: (https://mentors.codingcoach.io/?country=BG&name=Ivan+Grigorov)
-[CodeMentor]: (https://www.codementor.io/@ivangrigorov9)
+[PHPDIRelease]: https://packagist.org/packages/ivangrigorov/php-simple-dicontainer
+[SpendingSimplifiedRelease]: https://play.google.com/store/apps/details?id=org.nativescript.CostingApp&hl=en
+[PHPDI]: https://github.com/IvanGrigorov/PHPDI
+[SpendingSimplified]: https://github.com/IvanGrigorov/SpendingSimplified
+[BlogClient]: https://github.com/IvanGrigorov/Blog
+[BlogServer]: https://github.com/IvanGrigorov/Blog
+[Insta]: https://www.instagram.com/grigorov_ik/
+[LinkedIn]: https://www.linkedin.com/in/ivan-grigorov-0527b0ba/
+[Email]: ivangrigorov9@gmail.com
+[Blog]: https://ivanit.eu
+[CodingCoach]: https://mentors.codingcoach.io/?country=BG&name=Ivan+Grigorov
+[CodeMentor]: https://www.codementor.io/@ivangrigorov9
