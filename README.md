@@ -44,7 +44,7 @@
 [PHPDI]: https://github.com/IvanGrigorov/PHPDI
 [SpendingSimplified]: https://github.com/IvanGrigorov/SpendingSimplified
 [BlogClient]: https://github.com/IvanGrigorov/Blog
-[BlogServer]: https://github.com/IvanGrigorov/Blog
+[BlogServer]: https://github.com/IvanGrigorov/PersonalBlog
 [Insta]: https://www.instagram.com/grigorov_ik/
 [LinkedIn]: https://www.linkedin.com/in/ivan-grigorov-0527b0ba/
 [Email]: mailto:ivangrigorov9@gmail.com
